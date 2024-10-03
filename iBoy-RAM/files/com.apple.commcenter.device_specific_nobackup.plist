@@ -1,0 +1,15 @@
+<plist version="1.0">
+<dict>
+	<key>kPostponementTicket</key>
+	<dict>
+		<key>ActivationState</key>
+		<string>Activated</string>
+		<key>ActivityURL</key>
+		<string>https://albert.apple.com/deviceservices/activity</string>
+		<key>PhoneNumberNotificationURL</key>
+		<string>https://albert.apple.com/deviceservices/phoneHome</string>
+		<key>ActivationTicket</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>
